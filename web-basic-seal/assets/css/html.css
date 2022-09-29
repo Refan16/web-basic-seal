@@ -1,0 +1,13 @@
+.body{
+    background-color: antiquewhite;
+}
+.foto{
+    border-radius: 10%;
+}
+.about{
+    text-align: center;
+    color: red;
+}
+.isi{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

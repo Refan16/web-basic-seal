@@ -1,0 +1,13 @@
+.body {
+    background-color: antiquewhite;
+}
+.id {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 3%;
+}
+.tabel{
+    text-align: center;
+}
+.isi{
+    font-style: italic;
+}
